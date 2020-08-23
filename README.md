@@ -1,1 +1,1 @@
-# Small_Machine_lLarning_Projects
+# Small_Machine_Larning_Projects
